@@ -1,20 +1,23 @@
 body{
-  background-color: #7fcdff;
+  background-color: #7fb9bb;
+  font-family: 'Oleo Script', cursive;
 }
 
 nav{
-background-color: #064273;
+background-color: #154b67;
 box-shadow: 0px 5px 5px 0px rgb(41, 38, 38);
 }
 
 #main-nav .navbar-brand{
-  background-color: #064273;
+  background-color: #154b67;
   color: white;
+  font-size: 1.6rem;
 }
 
 #main-nav .nav-link{
-  background-color: #064273;
+  background-color: #154b67;
   color: white;
+  font-size: 1.6rem;
 }
 
 .jumbotron{
@@ -22,7 +25,38 @@ box-shadow: 0px 5px 5px 0px rgb(41, 38, 38);
   box-shadow: 0px 5px 5px 0px rgb(41, 38, 38);
 }
 
+#about-spl{
+  font-size: 1.2rem;
+}
+
 #main-pic{
   border-radius: 10px;
   box-shadow: 0px 3px 5px 3px rgb(41, 38, 38);
+}
+
+#resort{
+  background-color: white;
+}
+
+hr {
+  overflow: visible; /* For IE */
+  height: 30px;
+  border-style: solid;
+  border-color:#343a40;
+  border-width: 1px 0 0 0;
+  border-radius: 20px;
+}
+hr:before { /* Not really supposed to work, but does */
+  display: block;
+  content: "";
+  height: 30px;
+  margin-top: -31px;
+  border-style: solid;
+  border-color:#343a40;
+  border-width: 0 0 1px 0;
+  border-radius: 20px;
+}
+
+.footer{
+  background-color: #ead5b6;
 }
