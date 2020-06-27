@@ -38,6 +38,14 @@ box-shadow: 0px 5px 5px 0px rgb(41, 38, 38);
   background-color: white;
 }
 
+#upcoming-events{
+font-size: 1.3rem;
+}
+
+.table{
+  font-size: 1.2rem;
+}
+
 hr {
   overflow: visible; /* For IE */
   height: 30px;
