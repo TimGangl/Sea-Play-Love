@@ -34,13 +34,16 @@
 
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link" href="./our-art.html">Our Art</a>
+            <a class="nav-link" href="./our-art.html"><i class="fas fa-sun"></i> Our Art</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="./events.html">Events</a>
+            <a class="nav-link" href="./installations.html"><i class="fas fa-heart"></i> Installations</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="./our-story.html">Our Story</a>
+            <a class="nav-link" href="./events.html"> <i class="fas fa-anchor"></i> Events</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="./our-story.html"><i class="fas fa-sun"></i> Our Story</a>
           </li>
 
         </ul>
@@ -48,15 +51,17 @@
     </div>
   </nav>
 
+  <!--Main Content-->
   <div class="container-fluid">
     <div class="row justify-content-center">
+      <div class="col-lg-2"></div>
       <div class="col-lg-8">
 
         <!--Jumbotron-->
         <div class="jumbotron justify-content-center mt-3">
           <div class="row justify-content-center">
             <div class="col-lg-3"></div>
-            <div class="col-lg-8 justify-content-center"><img class="img-fluid" src="./assets/images/Logo.JPG"></div>
+            <div class="col-lg-8 justify-content-center"><img class="img-fluid" src="./assets/images/Logo.jpg"></div>
             <div class="col-lg-1"></div>
           </div>
           <div class="row justify-content-center">
@@ -64,13 +69,14 @@
             <div class="col-lg-8 mt-3 text-center">
               <h1>Events</h1>
 
-              <table class="table">
+              <!--Table-->
+              <table class="table table-striped table-bordered">
                 <thead>
                   <tr>
-                    <th scope="col">Date</th>
-                    <th scope="col">Event</th>
-                    <th scope="col">Location</th>
-                    <th scope="col">Time</th>
+                    <th class="table-head" scope="col">Date</th>
+                    <th class="table-head" scope="col">Event</th>
+                    <th class="table-head" scope="col">Location</th>
+                    <th class="table-head" scope="col">Time</th>
                   </tr>
                 </thead>
                 <tbody>
@@ -91,5 +97,23 @@
           </div>
         </div>
       </div>
+      <div class="col-lg-2"></div>
     </div>
   </div>
+
+  <!--Footer-->
+  <footer class="footer text-center">© 2020 SeaPlayLove | designed by TMG Web Development</footer>
+
+  <!--Bootstrap jquery and popper-->
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+    integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+    integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"
+    integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI"
+    crossorigin="anonymous"></script>
+</body>
+
+</html>
