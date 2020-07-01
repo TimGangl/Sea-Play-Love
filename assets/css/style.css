@@ -132,3 +132,7 @@ hr:before { /* Not really supposed to work, but does */
 .modal-content{
   background-color:#343a40 ;
 }
+
+.close{
+  color: white;
+}
