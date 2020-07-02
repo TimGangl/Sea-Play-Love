@@ -9,7 +9,7 @@ box-shadow: 0px 5px 5px 0px rgb(41, 38, 38);
 }
 
 .jumbotron{
-background-image: url(../images/subtle_white_mini_waves/subtle_white_mini_waves.png);
+background-image: url(../images/sandpaper/sandpaper.png);
 }
 
 #main-nav .navbar-brand{
@@ -51,7 +51,10 @@ font-size: 1.4rem;
 }
 
 .table-head{
-  background-color: #e9cfb6;
+  background-color: #2d8d9d;
+  color: white;
+  font-size: 1.4rem;
+  font-weight: 50;
 }
 
 hr {
@@ -74,7 +77,8 @@ hr:before { /* Not really supposed to work, but does */
 }
 
 .footer{
-  background-color: #e9cfb6;
+  background-image: url(../images/sandpaper/sandpaper.png);
+  box-shadow: 0px -.05px 4px 1px rgb(41, 38, 38);
 }
 
 .carousel-inner > .carousel-item > img {
@@ -100,6 +104,10 @@ hr:before { /* Not really supposed to work, but does */
 
 .the-story{
   font-size: 1.4rem;
+}
+
+.resort{
+  color: #343a40;
 }
 
 .masonry{
@@ -133,10 +141,50 @@ hr:before { /* Not really supposed to work, but does */
   font-size: 1.4rem;
 }
 
+.click{
+  color: #343a40;
+}
+
 .modal-content{
   background-color:#343a40 ;
 }
 
 .close{
   color: white;
+}
+
+.carousel-pics:hover{
+  cursor: pointer;
+  transform: scale(1.1);
+}
+
+.carousel-pics:active{
+  transform: translate(-1px, 1px);
+}
+
+.install-pics:hover{
+  cursor: pointer;
+  transform: scale(1.1);
+}
+
+.install-pics:active{
+  transform: translate(-1px, 1px);
+}
+
+span{
+  
+  padding-top: 5px;
+  font-weight: 50;
+}
+
+button{
+  margin-top: 10px;
+}
+
+.links{
+  color: #343a40;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 4px;
+  padding-bottom: 5px;
 }
