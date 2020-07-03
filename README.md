@@ -1,5 +1,5 @@
 # Sea-Play-Love
-A website for ocean inspired and other assorted resin art. This is my Re-work of a client's Web page for their Resin art buisness. 
+A website for ocean inspired and other assorted resin art. This is my re-work of a client's web page for their ocean inspired resin art buisness. 
 See website here ->[SeaPlayLove](http://seaplaylove.com)
 
 
