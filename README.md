@@ -1,2 +1,23 @@
 # Sea-Play-Love
-A website for ocean inspired art. 
+A website for ocean inspired and other assorted resin art. This is my Re-work of a client's Web page for their Resin art buisness. 
+See website here ->[SeaPlayLove](http://seaplaylove.com)
+
+
+### Getting Started
+Simply click the clone button to copy to you local machine via **Git Bash**. Open in your prefered code editor and you are good to go. To open localy just right click in code editor and click on **open in default browser**.
+
+#### Prerequisites
+There is no back end, so no need to install any packages. 
+
+## Built With
+* HTML5
+* CSS3
+* Bootstrap 4
+* Font Awesome
+* Google Fonts
+
+## Author
+Tim Gangl- Lead Developer 
+ * [Github](http://github.com/TimGangl)
+ * [LinkedIn](http://linkedin/in/tim-gangl/)
+ * [Portfolio](http://github.com/TimGangl/Portfolio)
