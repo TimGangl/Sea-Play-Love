@@ -7,7 +7,7 @@ See website here ->[SeaPlayLove](http://seaplaylove.com)
 Simply click the clone button to copy to you local machine via **Git Bash**. Open in your prefered code editor and you are good to go. To open localy just right click in code editor and click on **open in default browser**.
 
 #### Prerequisites
-There is no back end, so no need to install any packages. 
+None
 
 ## Built With
 * HTML5
