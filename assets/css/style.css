@@ -110,33 +110,6 @@ hr:before { /* Not really supposed to work, but does */
   color: #343a40;
 }
 
-.masonry{
-  line-height: 40px;
-  column-count: 3;
-  
-}
-
-.masonry img{
-  width: 100% !important;
-  height: auto !important;
-  margin-bottom: 16px;
-  padding: 0;
-}
-
-@media screen and (max-width:867px){
-  .masonry{
-  line-height: 40px;
-  column-count: 2;
-  }
-}
-
-@media screen and (max-width:660px){
-  .masonry{
-  line-height: 40px;
-  column-count: 2;
-  }
-}
-
 .install{
   font-size: 1.4rem;
 }
