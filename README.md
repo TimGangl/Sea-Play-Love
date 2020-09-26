@@ -19,5 +19,5 @@ None
 ## Author
 Tim Gangl- Lead Developer 
  * [Github](http://github.com/TimGangl)
- * [LinkedIn](http://linkedin/in/tim-gangl/)
- * [Portfolio](http://github.com/TimGangl/Portfolio)
+ * [LinkedIn](https://www.linkedin.com/in/tim-gangl/)
+ * [Portfolio](https://timgangl.github.io/Portfolio/)
