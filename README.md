@@ -20,4 +20,4 @@ None
 Tim Gangl- Lead Developer 
  * [Github](http://github.com/TimGangl)
  * [LinkedIn](https://www.linkedin.com/in/tim-gangl/)
- * [Portfolio](https://timgangl.github.io/Portfolio/)
+ * [Portfolio](https://timgangl.com/)
